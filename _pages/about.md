@@ -24,16 +24,16 @@ About Me
 
 I'm an [NIHR Academic Clinical Fellow](https://www.nihr.ac.uk/career-development/research-career-funding-programmes/predoctoral/academic-clinical-fellowship) in Obstetrics and Gynaecology (ST1) based in Leicester. My clinical role is based at [UHL NHS Trust](https://www.leicestershospitals.nhs.uk/aboutus/) and my academic role is based at the [University of Leicester](https://le.ac.uk/).
 
-Websites I like  
-======
+## Websites I like  
 
-General
--
+
+### General
+
 [XKCD](https://xkcd.com/)  
 [Low tech magazine](https://solar.lowtechmagazine.com/)  
 
-Academic
--
+### Academic
+
 [Raul Pacheco-Vega, PhD](https://www.raulpacheco.org/)  
 [Hendrik Erz](https://www.hendrik-erz.de/)
 
