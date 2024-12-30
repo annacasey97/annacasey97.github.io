@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Leicester Royal Infirmary</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -23,6 +21,11 @@ About Me
 ======
 
 I'm an [NIHR Academic Clinical Fellow](https://www.nihr.ac.uk/career-development/research-career-funding-programmes/predoctoral/academic-clinical-fellowship) in Obstetrics and Gynaecology (ST1) based in Leicester. My clinical role is based at [UHL NHS Trust](https://www.leicestershospitals.nhs.uk/aboutus/) and my academic role is based at the [University of Leicester](https://le.ac.uk/).
+
+Research Interests
+======
+I am currently working in the area of gynaecological cancer, specifically uterine sarcoma.
+
 
 ## Websites I like  
 
@@ -37,6 +40,3 @@ I'm an [NIHR Academic Clinical Fellow](https://www.nihr.ac.uk/career-development
 [Raul Pacheco-Vega, PhD](https://www.raulpacheco.org/)  
 [Hendrik Erz](https://www.hendrik-erz.de/)
 
-Research Interests
-======
-I am currently working in the area of gynaecological cancer, specifically uterine cancers.
