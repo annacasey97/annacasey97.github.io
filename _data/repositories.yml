@@ -1,8 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - annacasey97
+  - 
 
-github_repos:
+# github_repos:
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
