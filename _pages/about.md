@@ -27,15 +27,14 @@ Research Interests
 I am currently working in the area of gynaecological cancer, specifically uterine sarcoma.
 
 
-## Websites I like  
+### Websites I like  
 
-
-### General
+#### General
 
 [XKCD](https://xkcd.com/)  
 [Low tech magazine](https://solar.lowtechmagazine.com/)  
 
-### Academic
+#### Academic
 
 [Raul Pacheco-Vega, PhD](https://www.raulpacheco.org/)  
 [Hendrik Erz](https://www.hendrik-erz.de/)
