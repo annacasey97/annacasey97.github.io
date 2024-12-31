@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  academic writing resources
-date:   2015-03-15 16:40:16
+date:   2024-12-30 16:40:16
 description: for all your academic writing needs
 tags: academic-writing
 categories: advice
@@ -20,7 +20,9 @@ Here are a couple of examples of what to look for:
 1. My current NHS Trust, UHL, has the following sessions available at the library: [link to training calendar] (https://www.uhl-library.nhs.uk/trainingcalendar.html)
 2. Same thing at the hospital I was based at during university: [University Hospitals Sussex](https://www.uhsussex.nhs.uk/professionals/knowledge-and-libraries/information-skills-teaching/)
 
-To find these, you can google "-your hospital trust- + library services" and follow the links. If you're having difficulty just pop them an email or visit in person!
+To find these, you can google "{your hospital trust} + library services" and follow the links. If you're having difficulty just pop them an email or visit in person!
+
+There's also lots of different individuals with useful websites.
 
 [Dr Raul Pacheco-Vega](https://www.raulpacheco.org/) is a Full Professor in the Methods Lab of the Latin American Faculty for Social Sciences (Facultad Latinoamericana de Ciencias Sociales, FLACSO) Sede México. His website not only covers his interdisciplinary work but also includes a massive amount of advice and useful resources for anyone with academic writing tasks. From organising your work to the actual reading and writing, I'd recommend browsing through.
 
