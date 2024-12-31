@@ -26,6 +26,8 @@ There's also lots of different individuals with useful websites.
 
 [Dr Raul Pacheco-Vega](https://www.raulpacheco.org/) is a Full Professor in the Methods Lab of the Latin American Faculty for Social Sciences (Facultad Latinoamericana de Ciencias Sociales, FLACSO) Sede México. His website not only covers his interdisciplinary work but also includes a massive amount of advice and useful resources for anyone with academic writing tasks. From organising your work to the actual reading and writing, I'd recommend browsing through.
 
+[Vrinda Nair](https://x.com/VnVrinda) is a doctoral candidate at Concordia University. She has a great Twitter/X page sharing thoughts and resources to help with all aspects of academic life, from writing resources to advice on choosing colour schemes for maximum impact when presenting. There are so many threads here full of advice, have a browse.
+
 ## Gathering sources
 [Connected Papers](https://www.connectedpapers.com/) is a wonderful site where for any academic paper, you can find links to others. Covering both papers referenced by your one, as well as papers which reference it, it's a good way to get an initial handle on a field.
 
