@@ -4,7 +4,7 @@ title:  academic writing resources
 date:   2024-12-30 16:40:16
 description: for all your academic writing needs
 tags: academic-writing
-categories: advice
+categories: advice, academic-writing
 hidden: false
 ---
 # Academic writing resources
